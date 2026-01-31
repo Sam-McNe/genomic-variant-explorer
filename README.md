@@ -19,7 +19,7 @@ Export functionality - Download filtered results for downstream analysis
 ## Architecture
 The application follows a three-tier structure:
 
-1. Data layer: VCF (variants), GFF3 (gene annotations), and annotaion files
+1. Data layer: VCF/vcf.GZ/vcf.gz.tbi (variants), GFF3 (gene annotations), and annotation file for best homologs
 2. Processing layer: Bash scripts perform on-demand joins and filtering based on user queries
 3. Presentation layer: Shiny interface for dynamic querying and visualization
 
