@@ -39,7 +39,7 @@ To use this tool with your own data, you would need:
 - Modfiy the existing scripts and app to fit your data
 
 ## Development Context
-Built as part of genomic data analysis workflows at USDA ARS Fort Collins, focusing on crop disease resistance research and supporting international collaborative breeding programs.
+Built as part of genomic data analysis workflows at USDA ARS Fort Collins, focusing on crop disease resistance research and supporting international collaborative breeding programs. If you work for the USDA-ARS and would like to access the fully functioning tool, please reach out to me at sammcne@gmail.com or Samuel.McNeill@usda.gov
 
 ## Author
 Sam McNeill\
