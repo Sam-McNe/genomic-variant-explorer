@@ -39,7 +39,7 @@ is the next planned development milestone.
 
 ## Data
 
-Dataset not included due to size. 
+Full dataset available on request / via USDA data sharing
 
 ## Screenshots
 
