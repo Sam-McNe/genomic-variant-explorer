@@ -43,7 +43,27 @@ Full dataset available on request / via USDA data sharing
 
 ## Screenshots
 
-Coming soon
+<figure>
+  <figcaption align="center"><i>Figure 1: The genomics dashboard after searching a gene</i></figcaption>
+  <img src="screenshots/VMT1.jpg" alt="Genomic Dashboard View">
+</figure>
+
+<figure>
+  <figcaption align="center"><i>Figure 2: Pop-out view when double clicking a variant</i></figcaption>
+  <img src="screenshots/VMT2.jpg" alt="Variant Double-click View">
+</figure>
+
+<figure>
+  <figcaption align="center"><i>Figure 3: The predicted protein alignment dashboard for the gene and all unique variants</i></figcaption>
+  <img src="screenshots/VMT3.jpg" alt="Protein Alignment View">
+  <figtitle
+</figure>
+
+<figure>
+  <figcaption align="center"><i>Figure 4: Protein similarity tree for all samples (next steps would be attaching phenotype data)</i></figcaption>
+  <img src="screenshots/VMT4.jpg" alt="Protein Similarity Tree">
+  <figtitle
+</figure>
 
 ## Contact
 Sam McNeill
